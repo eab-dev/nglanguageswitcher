@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>Netgen Language Switcher</name>
+        <version>1.0.0</version>
+        <copyright>Copyright (C) 2013 Netgen d.o.o.</copyright>
+        <license>GNU General Public License v2.0</license>
+        <info_url>http://projects.ez.no/nglanguageswitcher</info_url>
+    </metadata>
+
+    <dependencies>
+        <requires>
+            <extension name="ezdemo" />
+        </requires>
+        <extends>
+            <extension name="ezdemo" />
+        </extends>
+    </dependencies>
+</software>
