@@ -4,9 +4,9 @@ Original language switcher generates URLs with `/switchlanguage/to/` module view
 extension mitigates that problem by generating correct full URLs to each siteaccess variant of current page.
 
 ## License and installation instructions
-[License](/netgen/nglanguageswitcher/tree/master/LICENSE)
+[License](LICENSE)
 
-[Installation instructions](/netgen/nglanguageswitcher/tree/master/doc/INSTALL.md)
+[Installation instructions](doc/INSTALL.md)
 
 ## Project page
 
