@@ -1,0 +1,16 @@
+{
+    "name": "netgen/nglanguageswitcher",
+    "description": "Netgen Language Switcher is an extension that provides another way of generating links for language switcher in eZ Publish",
+    "type": "ezpublish-legacy-extension",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Netgen",
+            "email": "info@netgen.hr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    }
+}
